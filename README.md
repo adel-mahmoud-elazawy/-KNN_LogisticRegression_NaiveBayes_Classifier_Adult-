@@ -12,7 +12,6 @@ This is my second hands-on Machine Learning project. After building a Linear Reg
 
 ## 📅 Dataset
 
-* **Source:** [UCI Adult Census Income Dataset](https://archive.ics.uci.edu/ml/datasets/adult)
 * **Records:** 48,842 rows
 * **Target:** `income` (`<=50K` vs `>50K`)
 
