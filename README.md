@@ -51,6 +51,3 @@ This is my second hands-on Machine Learning project. After building a Linear Reg
 * **LinkedIn:** [https://www.linkedin.com/in/adel-mahmoud-elazawy-b35256378?utm_source=share_via&utm_content=profile&utm_medium=member_android]
 * **GitHub:** [https://github.com/adel-mahmoud-elazawy]
 
-* **Developer:** [Your Name]
-* **LinkedIn:** [Your Profile Link]
-* **GitHub:** [Your Profile Link]
